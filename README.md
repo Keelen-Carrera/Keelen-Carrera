@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my page! Feel free to check out any of my work!
 
-![Image of Banner](Keelen-Fisher.png)
-
+![Image of Banner](Keelen Carrera Software Dev Banner.png)
  <!-- ![Keelen's github stats](https://github-readme-stats.vercel.app/api?username=Keelen-Carrerar&theme=nightowl) -->
 
 <a href="https://www.linkedin.com/in/keelencarrera/"><img src="icons8_linkedin.svg"></a>
