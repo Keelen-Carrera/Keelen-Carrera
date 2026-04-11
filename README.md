@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Image of Banner](Keelen-Fisher.png)
 
-![Keelen's github stats](https://github-readme-stats.vercel.app/api?username=Keelen-Fisher&theme=nightowl)
+![Keelen's github stats](https://github-readme-stats.vercel.app/api?username=Keelen-Carrerar&theme=nightowl)
 
-<a href="https://www.linkedin.com/in/keelen-fisher-b63766148/"><img src="icons8_linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/keelencarrera/"><img src="icons8_linkedin.svg"></a>
