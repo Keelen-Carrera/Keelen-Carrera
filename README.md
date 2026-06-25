@@ -67,19 +67,19 @@ AWS services: EC2 · IAM · Elastic Beanstalk · DynamoDB
 
 ## Featured Work
 
-### 🛡️ [SOC Home Lab — SIEM Detection Engineering](https://github.com/Keelen-Carrera/SOC-Home-Lab-with-SIEM-Detection-Engineering)
+### [SOC Home Lab — SIEM Detection Engineering](https://github.com/Keelen-Carrera/SOC-Home-Lab-with-SIEM-Detection-Engineering)
 
 A three-VM blue-team lab built on Wazuh, with **5 custom Sigma detection rules** mapped to MITRE ATT&CK techniques and validated against Atomic Red Team simulations. Detection coverage spans credential dumping, PowerShell abuse, and scheduled task persistence — each rule shipped with adversary context and hardening guidance.
 
 **Stack:** Wazuh · Sigma · Atomic Red Team · MITRE ATT&CK / D3FEND · Ubuntu · Bash
 
-### 🔌 [Logistics Integration Portfolio](https://github.com/Keelen-Carrera/logistics-integration-portfolio)
+### [Logistics Integration Portfolio](https://github.com/Keelen-Carrera/logistics-integration-portfolio)
 
 API-based integration workflows between simulated enterprise systems, demonstrating secure API design at scale. JSON/XML transformation pipelines with input validation, error handling, and reusable transformation logic — patterns drawn from 13+ production integrations shipped at Aries Worldwide Logistics.
 
 **Stack:** Mulesoft · REST APIs · JSON/XML · Secure-by-default API patterns
 
-### 🍽️ [Smart Kitchen Management — Dine Flow](https://github.com/allaboutmike/smart-kitchen-mgmt)
+### [Smart Kitchen Management — Dine Flow](https://github.com/allaboutmike/smart-kitchen-mgmt)
 
 Backend services for inventory and supplier workflows built with a Dallas Software Developers cohort. RESTful APIs and real-time operational data processing, deployed in an Agile team environment.
 
@@ -87,7 +87,7 @@ Backend services for inventory and supplier workflows built with a Dallas Softwa
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keelen-Carrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
