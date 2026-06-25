@@ -17,7 +17,7 @@
 
 I'm a security-conscious software engineer with 5+ years of experience designing scalable backend systems, coordinating enterprise integrations, and hardening API endpoints. My focus is on **strengthening system integrity through threat-aware architecture, workflow automation, and platform security improvement**, with active work in detection engineering, secure SDLC, and cloud security.
 
-Coming from a production engineering background gives me an unusual angle on defensive security: I've been the one who *built* the systems that need defending. I understand where integration seams crack under load, where IAM gets sloppy, and how the operational pressure that ships code also creates the vulnerabilities I'm now learning to detect and remediate. Committed to building resilient, high-availability systems that reduce risk and protect mission-critical infrastructure.
+Coming from a production engineering background gives me a unique angle on defensive security: I've been the one who *built* the systems that need defending. I understand where integration seams crack under load, where IAM gets sloppy, and how the operational pressure that ships code also creates the vulnerabilities I'm now learning to detect and remediate. Committed to building resilient, high-availability systems that reduce risk and protect mission-critical infrastructure.
 
 ## Tech Stack
 
