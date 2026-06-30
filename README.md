@@ -81,7 +81,7 @@ API-based integration workflows between simulated enterprise systems, demonstrat
 
 ### [Smart Kitchen Management — Dine Flow](https://github.com/allaboutmike/smart-kitchen-mgmt)
 
-Backend services for inventory and supplier workflows built with a Dallas Software Developers cohort. RESTful APIs and real-time operational data processing, deployed in an Agile team environment.
+Backend services for inventory and supplier workflows built with a Dallas Software Developers cohort—RESTful APIs and real-time operational data processing, deployed in an Agile team environment.
 
 **Stack:** Node.js · TypeScript · REST APIs · Cloud deployment
 
