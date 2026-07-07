@@ -87,7 +87,7 @@ Backend services for inventory and supplier workflows built with a Dallas Softwa
 
 ---
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keelen-Carrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -98,7 +98,7 @@ Backend services for inventory and supplier workflows built with a Dallas Softwa
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keelen-Carrera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
+ --> 
 ## Let's Connect
 
 Always open to conversations about **detection engineering, DevSecOps practices, AWS security, or breaking into security from a software background**. If you're hiring, building, or just want to compare notes:
