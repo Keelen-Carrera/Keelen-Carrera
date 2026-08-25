@@ -21,47 +21,42 @@ Coming from a production engineering background gives me a unique angle on defen
 
 ## Tech Stack
 
-**Security & Detection**
+**Engineering**
 
-![Wazuh](https://img.shields.io/badge/Wazuh-007ACC?style=flat-square&logo=wazuh&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma%20Rules-2D2D2D?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-BB0A1E?style=flat-square)
-![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-D32F2F?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-
-Incident response · Log analysis · Vulnerability management · Risk assessment · Secure SDLC
-
-**Cloud & DevSecOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-AWS services: EC2 · IAM · Elastic Beanstalk · DynamoDB
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
+![DataWeave](https://img.shields.io/badge/DataWeave-5A2D82?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat-square)
+![XML](https://img.shields.io/badge/XML-2D2D2D?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+REST APIs · Systems Integration
 
-**Frameworks & Frontend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+**Security & Platform Foundations**
 
-**Databases**
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Fleet Server](https://img.shields.io/badge/Fleet%20Server-005571?style=flat-square)
+![Elastic Agent](https://img.shields.io/badge/Elastic%20Agent-005571?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Auth & Access Control](https://img.shields.io/badge/Auth%20%26%20Access%20Control-4B4B4B?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA%20Configuration-4B4B4B?style=flat-square)
+![Cybersecurity Lab](https://img.shields.io/badge/Cybersecurity%20Lab%20Development-BB0A1E?style=flat-square)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+**Operational Strengths**
+
+![Production Troubleshooting](https://img.shields.io/badge/Production%20Troubleshooting-6A4C93?style=flat-square)
+![Root-Cause Analysis](https://img.shields.io/badge/Root--Cause%20Analysis-1982C4?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation%20%26%20Reconciliation-8AC926?style=flat-square)
+![QA/Testing](https://img.shields.io/badge/QA%2FTesting-FF595E?style=flat-square)
+![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-FFCA3A?style=flat-square)
+![Stakeholder Coordination](https://img.shields.io/badge/Stakeholder%20Coordination-6D6875?style=flat-square)
+![Technical Teaching & Support](https://img.shields.io/badge/Technical%20Teaching%20%26%20Support-3A86FF?style=flat-square)
 
 ---
 
