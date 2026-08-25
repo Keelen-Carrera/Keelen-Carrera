@@ -15,9 +15,11 @@
 
 ---
 
-I'm a security-conscious software engineer with 5+ years of experience designing scalable backend systems, coordinating enterprise integrations, and hardening API endpoints. My focus is on **strengthening system integrity through threat-aware architecture, workflow automation, and platform security improvement**, with active work in detection engineering, secure SDLC, and cloud security.
-
-Coming from a production engineering background gives me a unique angle on defensive security: I've been the one who *built* the systems that need defending. I understand where integration seams crack under load, where IAM gets sloppy, and how the operational pressure that ships code also creates the vulnerabilities I'm now learning to detect and remediate. Committed to building resilient, high-availability systems that reduce risk and protect mission-critical infrastructure.
+Software and integration engineer transitioning into cybersecurity, with a current focus on Product and Application Security. Professional experience is strongest in APIs, backend and integration workflows, production troubleshooting, data transformation and validation, technical documentation, and cross-team delivery.
+ 
+Experience spans integration requirements, development, testing, deployment, monitoring, and troubleshooting; event-driven MuleSoft workflows; production issue diagnosis using logs, Postman, HTTP responses, and data analysis; and portfolio work involving API authentication and backend development.
+ 
+CompTIA Security+ and AWS Certified Cloud Practitioner support a growing security foundation, with continued hands-on development through labs and projects. Target direction centers on early-career security roles where a software-engineering foundation can translate into secure applications, technical analysis, and security-focused engineering.
 
 ## Tech Stack
 
