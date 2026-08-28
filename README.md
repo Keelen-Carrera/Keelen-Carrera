@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Keelen Carrera</h1>
 
 <p align="center">
-  <strong>Security Engineer · DevSecOps & Detection Engineering</strong>
+  <strong>Product Security Engineer · DevSecOps & Detection Engineering</strong>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/keelencarrera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
